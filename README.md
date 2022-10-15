@@ -10,5 +10,11 @@
 
 Μεταφορέας θα είναι ένα όχημα που θα κινείται σε καθορισμένη τροχιά, όταν θα υπάρχει διαθέσιμη ενέργεια.
 
-Θα χρησιμοποιήσουμε  microbit
+Θα χρησιμοποιήσουμε  micro:bit
 
+Λίστα προτεινόμενου εξοπλισμού:
+Hobby Motor 1.5V DC 18000rpm
+BBC:MOVE Mini Buggy Kit V2
+EasyPrint PLA Filament - 1.75mm - 1kg - Green
+Kitronik Solar Garden Light with Battery
+micro: Maqueen Plus V2 - STEM Robot Platform
